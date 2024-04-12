@@ -64,7 +64,7 @@ export default function HTTPHeader({ type, path }) {
       setTimeout(() => setCopy(false), 3000);
     }
   }, [copied]);
-  const BASE_URL = "https://top.gg/api/";
+  const BASE_URL = "https://docs.pogoos.info/";
   const fullUrl = new URL(path, BASE_URL).href;
   const url = path;
   return (
@@ -78,7 +78,7 @@ export default function HTTPHeader({ type, path }) {
         />
       </Header>
       <CopyToClipboard text={fullUrl} onCopy={() => setCopy(true)}>
-        <CopyButton method={type}>{copied ? "Copied!" : "Copy URL"}</CopyButton>
+        <CopyButton method={type}>{copied ? "¡Copiado!" : "Copy URL"}</CopyButton>
       </CopyToClipboard>
     </HeaderWrapper>
   );
