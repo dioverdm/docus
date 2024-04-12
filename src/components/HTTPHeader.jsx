@@ -78,7 +78,7 @@ export default function HTTPHeader({ type, path }) {
         />
       </Header>
       <CopyToClipboard text={fullUrl} onCopy={() => setCopy(true)}>
-        <CopyButton method={type}>{copied ? "¡Copiado!" : "Copy URL"}</CopyButton>
+        <CopyButton method={type}>{copied ? "¡Copiado!" : "Copiar URL"}</CopyButton>
       </CopyToClipboard>
     </HeaderWrapper>
   );
