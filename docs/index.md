@@ -1,16 +1,16 @@
 ---
-title: Home
-description: Welcome to Top.gg
+title: Inicio
+description: Bienvenido a Pogo OS
 ---
 
-Hi developer 🥰, welcome to top.gg developer docs. You are currently viewing **v0** of our API documentation. We're going to be working on the next version of the top.gg API (v1) soon, stay tuned!
+Hola amigo 🥰, bienvenido a los documentos de Pogo OS.  Actualmente estás viendo **v10**.  Pero en cualquier momento podemos subir la próxima versión de Pogo OS (v11), ¡estad atentos!
 
-## Getting Started
+## Empezando
 
-If you're looking for API usage, [click here](/docs/API/@reference/) or go to the `API` section on the sidebar.
+Si busca invitar a Pogo OS, [haga clic aquí](https://www.pogoos.com/invite) o vaya al directorio de aplicaciones de Discord y en el buscador escriba **"Pogo OS"**.
 
-## Getting Help
+## Obteniendo ayuda
 
-If you need some help or think you have spotted a problem with our API you can talk to us in our [`#topgg-api`](https://discord.com/channels/264445053596991498/412006692125933568) channel in our [discord server](https://discord.gg/EYHTgJX).
+Si necesita ayuda o cree que ha detectado un problema con nuestro bot, puede hablar con nosotros en nuestro canal [`#soporte`](https://discord.com/channels) en nuestro [servidor discord](https://www.pogoos.com/discord).
 
-You can ask questions about our community-maintained API Libraries or general queries about the API in the server.
+Puede obtener ayuda directa del bot ejecutando el comando `/help`.
