@@ -8,19 +8,19 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Top.gg Documentation',
+  title: 'Pogo OS Documentación',
   tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.png',
 
   // Set the production url of your site here
-  url: 'https://docs.top.gg',
+  url: 'https://docs.pogoos.info',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'top-gg', // Usually your GitHub org/user name.
+  organizationName: 'pogo-os', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -30,8 +30,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'es',
+    locales: ['es'],
   },
 
   presets: [
@@ -44,7 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/top-gg/docs/tree/main/docs/',
+            'https://github.com/pogo-os/docs/tree/main/docs/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -54,7 +54,7 @@ const config = {
   ],
 
   stylesheets: [
-    'https://raw.githubusercontent.com/top-gg/docs/master/src/css/custom.css',
+    'https://raw.githubusercontent.com/pogo-os/docs/master/src/css/custom.css',
   ],
 
   onBrokenAnchors: 'log',
@@ -66,23 +66,23 @@ const config = {
         defaultMode: "dark"
       },
       // Replace with your project's social card
-      image: 'logo.svg',
+      image: 'logo.png',
       navbar: {
-        title: 'Top.gg',
+        title: 'Pogo OS',
         logo: {
-          alt: 'Top.gg Logo',
-          src: 'logo.svg',
+          alt: 'Pogo OS Logo',
+          src: 'logo.png',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'right',
-            label: 'Docs',
+            label: 'Documentación',
           },
           {
-            href: 'https://github.com/top-gg-community',
-            label: 'Community GitHub',
+            href: 'https://www.pogoos.com/discord',
+            label: 'Servidor Discord',
             position: 'right',
           },
         ],
