@@ -8,7 +8,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Pogo OS Documentación',
+  title: 'Documentación de Pogo OS',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/logo.png',
 
