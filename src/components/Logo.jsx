@@ -6,7 +6,7 @@ function Logo() {
     <div style={{ display: "flex", alignItems: "center" }}>
       <Topgg />
       <p style={{ margin: "0 0 0 15px" }} className="site-title">
-        Pogo OS Documentación
+        Documentación de Pogo OS
       </p>
     </div>
   );
