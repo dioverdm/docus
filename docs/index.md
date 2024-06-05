@@ -9,6 +9,8 @@ Hola amigo 🥰, bienvenido a los documentos de Pogo OS.  Actualmente estás vie
 
 Si busca invitar a Pogo OS, [haga clic aquí](https://www.pogoos.com/invite) o vaya al directorio de aplicaciones de Discord y en el buscador escriba **"Pogo OS"**.
 
+<HTTPHeader type="GET" path="bots" />
+
 ## Obteniendo ayuda
 
 Si necesita ayuda o cree que ha detectado un problema con nuestro bot, puede hablar con nosotros en nuestro canal [`#soporte`](https://discord.com/channels) en nuestro [servidor discord](https://www.pogoos.com/discord).
