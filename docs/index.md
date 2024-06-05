@@ -1,6 +1,6 @@
 ---
 title: Inicio
-description: Bienvenido a Pogo OS
+description: Bienvenido a la documentación Pogo OS
 ---
 
 Hola amigo 🥰, bienvenido a los documentos de Pogo OS.  Actualmente estás viendo **v10**.  Pero en cualquier momento podemos subir la próxima versión de Pogo OS (v11), ¡estad atentos!
